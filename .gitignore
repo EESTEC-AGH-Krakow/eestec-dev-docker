@@ -1,0 +1,7 @@
+/.idea/
+/docker.iml
+/.gradle
+/gradle
+gradlew.bat
+gradlew
+*.iml
